@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CleanArchitecture",
-    "\\Microservices"
+    "\\Microservices",
+    "\\Microservices\\AspnetMicroservices",
+    "\\Microservices\\AspnetMicroservices\\.github",
+    "\\Microservices\\AspnetMicroservices\\.github\\workflows",
+    "\\Microservices\\AspnetMicroservices\\DockerChallenge",
+    "\\Microservices\\AspnetMicroservices\\src",
+    "\\Microservices\\AspnetMicroservices\\src\\Services"
   ],
-  "SelectedNode": "\\CleanArchitecture\\SchoolManagementSystem",
+  "SelectedNode": "\\Microservices\\AspnetMicroservices\\src\\AspnetMicroservices.sln",
   "PreviewInSolutionExplorer": false
 }
