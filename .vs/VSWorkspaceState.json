@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Microservices",
-    "\\Microservices\\AspnetMicroservices",
     "\\Microservices\\AspnetMicroservices\\.github",
     "\\Microservices\\AspnetMicroservices\\.github\\workflows",
     "\\Microservices\\AspnetMicroservices\\DockerChallenge",
     "\\Microservices\\AspnetMicroservices\\src",
     "\\Microservices\\AspnetMicroservices\\src\\Services"
   ],
-  "SelectedNode": "\\Microservices\\AspnetMicroservices\\src\\AspnetMicroservices.sln",
+  "SelectedNode": "\\Microservices",
   "PreviewInSolutionExplorer": false
 }
