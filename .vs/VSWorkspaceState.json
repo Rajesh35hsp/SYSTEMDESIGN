@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Microservices\\AspnetMicroservices\\.github",
-    "\\Microservices\\AspnetMicroservices\\.github\\workflows",
-    "\\Microservices\\AspnetMicroservices\\DockerChallenge",
-    "\\Microservices\\AspnetMicroservices\\src",
-    "\\Microservices\\AspnetMicroservices\\src\\Services"
+    ""
   ],
-  "SelectedNode": "\\Microservices",
+  "SelectedNode": "\\SimpleRazorApp.sln",
   "PreviewInSolutionExplorer": false
 }
