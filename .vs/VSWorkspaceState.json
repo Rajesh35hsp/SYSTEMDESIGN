@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DesignPatterns",
+    "\\DesignPatterns\\Decorator",
+    "\\DesignPatterns\\Decorator\\DecoratorDP"
   ],
-  "SelectedNode": "\\SimpleRazorApp.sln",
   "PreviewInSolutionExplorer": false
 }
