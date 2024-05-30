@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/SYSTEMDESIGN/v17/.wsuo
+/CleanArchitecture/SchoolManagementSystem/.vs/SchoolManagementSystem/v17/.suo
+/.vs/SYSTEMDESIGN/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
